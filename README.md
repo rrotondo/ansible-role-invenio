@@ -1,5 +1,6 @@
 # Role Name
 
+[![Build Status](https://travis-ci.org/rrotondo/ansible-role-invenio.svg?branch=master)](https://travis-ci.org/rrotondo/ansible-role-invenio)
 <!-- A brief description of the role goes here. -->
 
 ## Requirements

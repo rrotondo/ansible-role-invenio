@@ -18,6 +18,8 @@ before_script:
       done
 script:
   - molecule converge
+  - molecule lint
+  - molecule verify
   - cd $TRAVIS_BUILD_DIR
 after_success:
 after_failure:
